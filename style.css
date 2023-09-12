@@ -1,0 +1,71 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+form {
+    width: 400px;
+    border: 3px dashed lightcoral;
+    border-radius: 25px;
+    margin: auto;
+    padding: 15px;
+
+}
+
+label,input,select,button {
+    display: block;
+    width: 80%;
+    margin: 7px auto;
+}
+
+input {
+    height: 35px;
+    border-radius: 25px;
+    border: 3px dotted greenyellow;
+}
+
+table {
+    width: 500px;
+    border: 3px dashed lightcoral;
+    border-radius: 25px;
+    margin: auto;
+    padding: 5px;
+}
+
+h1,
+h2 {
+    text-align: center;
+    color: brown;
+}
+
+hr {
+    width: 400px;
+    border: unset;
+    border-bottom: 5px dotted greenyellow;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+}
+
+td {
+    text-align: center;
+}
+
+th {
+    border-bottom: 3px dashed lightcoral;
+    border-radius: 15px;
+}
+
+span {
+    color: red;
+    font-size: 0.8rem;
+    margin-left: 35px;
+}
+
+button {
+    color: white;
+    background-color: brown;
+    padding: 10px;
+}
